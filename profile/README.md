@@ -1,6 +1,6 @@
 ## About the company
 
-Opscale is a company dedicated to creating platforms for startups and growing businesses, focusing on scaling operations efficiently through AI-assisted software development and providing full visibility through business intelligence supported by AI too. Our goal is to help companies optimize their processes and make informed decisions based on accurate data.
+Opscale is a company dedicated to creating platforms for startups and growing businesses, focusing on scaling operations efficiently through AI-assisted dashboard development and providing full visibility through business intelligence supported by AI too. Our goal is to help companies optimize their processes and make informed decisions based on accurate data.
 
 ## Our philosophy
 
